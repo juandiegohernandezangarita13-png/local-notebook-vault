@@ -7,3 +7,4 @@ sentence-transformers>=2.7.0
 watchdog>=4.0.0
 networkx>=3.3
 python-multipart>=0.0.9
+streamlit>=1.35.0
